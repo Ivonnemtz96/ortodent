@@ -514,13 +514,13 @@ input[type=color] {
   background: var(--it-common-white);
 }
 .gradient-btn.white-bg-2 span {
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   background-clip: border-box;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
 .gradient-btn.white-bg-2 i {
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   background-clip: border-box;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -529,9 +529,9 @@ input[type=color] {
   background-color: #1167b1;
 }
 .gradient-btn.blue-bg {
-  background-image: -moz-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
-  background-image: -ms-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -moz-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
+  background-image: -ms-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
 }
 .gradient-btn i {
   margin-left: 20px;
@@ -1515,7 +1515,7 @@ input[type=color] {
   width: 480px;
   bottom: 0;
   box-shadow: 0 16px -32px 0 rgba(0, 0, 0, 0.8);
-  background-color: var(--it-common-black);
+  background-color: #738c91;
   z-index: 9999;
   padding: 50px;
   scrollbar-width: none;
@@ -2057,7 +2057,7 @@ input[type=color] {
   }
 }
 .it-custom-accordio-2 .accordion-buttons:not(.collapsed) {
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   color: var(--it-common-white);
 }
 .it-custom-accordio-2 .accordion-buttons:not(.collapsed)::after {
@@ -2990,7 +2990,7 @@ input[type=color] {
 
 .hero-3-section-subtitle {
   font-size: 22px;
-  color: #108fe4;
+  color: #59aab7;
   font-weight: 700;
   font-family: "Open Sans", sans-serif;
   letter-spacing: 3px;
@@ -3014,7 +3014,7 @@ input[type=color] {
 .blue-section-subtitle {
   font-weight: 600;
   font-size: 22px;
-  color: #108fe4;
+  color: #59aab7;
   font-family: "Open Sans", sans-serif;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
@@ -3034,7 +3034,7 @@ input[type=color] {
 }
 .blue-section-subtitle::before {
   content: "";
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   height: 12px;
   width: 12px;
   border-radius: 50%;
@@ -3043,7 +3043,7 @@ input[type=color] {
 }
 .blue-section-subtitle::after {
   content: "";
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   height: 12px;
   width: 12px;
   border-radius: 50%;
@@ -5824,7 +5824,7 @@ input[type=color] {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   width: 350px;
   height: 75px;
   z-index: -1;
@@ -5880,7 +5880,7 @@ input[type=color] {
   transition: 0.3s;
 }
 .about-3__title-sm:hover {
-  color: #108fe4;
+  color: #59aab7;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .about-3__title-sm {
@@ -7356,7 +7356,7 @@ input[type=color] {
   transition: 0.3s;
 }
 .service-3__title-sm:hover {
-  color: #108fe4;
+  color: #59aab7;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .service-3__title-sm {
@@ -13118,7 +13118,7 @@ input[type=color] {
 }
 
 .contact-2__bg {
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   padding-top: 125px;
   padding-bottom: 100px;
 }
@@ -13192,7 +13192,7 @@ input[type=color] {
   border-radius: 50%;
   position: absolute;
   z-index: -2;
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
 }
 .contact-2__shape-1 {
   position: absolute;
@@ -14578,7 +14578,7 @@ input[type=color] {
   position: absolute;
   top: 0;
   right: 0;
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   padding: 0px 40px;
   height: 90px;
 }
@@ -15006,7 +15006,7 @@ input[type=color] {
   left: 0;
   width: 100%;
   height: 61%;
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   z-index: -1;
   border-radius: 10px;
 }
@@ -15042,7 +15042,7 @@ input[type=color] {
   left: 0;
   width: 70%;
   height: 46%;
-  background-color: #ebeffe;
+  background-color: #6db4c061;
   z-index: -2;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -15263,7 +15263,7 @@ input[type=color] {
 .solution__bottom-icon {
   height: 118px;
   width: 118px;
-  background-image: -webkit-linear-gradient(0deg, rgb(11, 149, 229) 0%, rgb(52, 98, 217) 100%);
+  background-image: -webkit-linear-gradient(0deg, rgb(89, 170, 183) 0%, rgb(89, 170, 183) 100%);
   border-radius: 5px;
   line-height: 118px;
   text-align: center;
@@ -16521,7 +16521,7 @@ input[type=color] {
   margin-bottom: 0;
 }
 .choose-2__title-sm:hover {
-  color: #108fe4;
+  color: #59aab7;
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
   .choose-2__title-sm {
@@ -16752,7 +16752,7 @@ input[type=color] {
 
 .col-custom-width {
   width: 485px;
-  height: 602px;
+  height: 688px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
   .col-custom-width {

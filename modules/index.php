@@ -7,8 +7,8 @@
             <button class="close-btn"><i class="fal fa-times"></i></button>
         </div>
         <div class="itoffcanvas__logo">
-            <a href="index.html">
-                <img src="/assets/img/logo/footer-logo.png" alt />
+            <a href="/">
+                <img src="/assets/img/logo/logo.png" alt />
             </a>
         </div>
         <div class="itoffcanvas__text">
@@ -19,44 +19,31 @@
         </div>
         <div class="mobile-menu"></div>
         <div class="itoffcanvas__info">
-            <h3 class="offcanva-title">Get In Touch</h3>
+            <h3 class="offcanva-title">Márcanos</h3>
             <div class="it-info-wrapper mb-20 d-flex align-items-center">
                 <div class="itoffcanvas__info-icon">
-                    <a href="#"><i class="fal fa-envelope"></i></a>
+                    <a href="maito:info@ortodentcabo.com"><i class="fal fa-envelope"></i></a>
                 </div>
                 <div class="itoffcanvas__info-address">
-                    <span>Email</span>
-                    <a href="maito:hello@yourmail.com"><span class="__cf_email__"
-                            data-cfemail="fa929f969695ba83958f88979b9396d4999597">[email&#160;protected]</span></a>
+                    <span>Correo</span>
+                    <a href="maito:info@ortodentcabo.com">info@ortodentcabo.com</a>
                 </div>
             </div>
             <div class="it-info-wrapper mb-20 d-flex align-items-center">
                 <div class="itoffcanvas__info-icon">
-                    <a href="#"><i class="fal fa-phone-alt"></i></a>
+                    <a href="tel:+526241573668"><i class="fal fa-phone-alt"></i></a>
                 </div>
                 <div class="itoffcanvas__info-address">
                     <span>Phone</span>
-                    <a href="tel:(00)45611227890">(00) 456 1122 7890</a>
+                    <a href="tel:+526241573668">+52 624 157 3668</a>
                 </div>
             </div>
-            <div class="it-info-wrapper mb-20 d-flex align-items-center">
-                <div class="itoffcanvas__info-icon">
-                    <a href="#"><i class="fas fa-map-marker-alt"></i></a>
-                </div>
-                <div class="itoffcanvas__info-address">
-                    <span>Location</span>
-                    <a href="htits://www.google.com/maps/@37.4801311,22.8928877,3z" target="_blank">Riverside 255, San
-                        Francisco, USA
-                    </a>
-                </div>
-            </div>
+           
         </div>
         <div class="itoffcanvas__social">
             <div class="social-icon">
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-instagram"></i></a>
-                <a href="#"><i class="fab fa-facebook-square"></i></a>
-                <a href="#"><i class="fab fa-dribbble"></i></a>
+                <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i class="fab fa-facebook-square"></i></a>
             </div>
         </div>
     </div>
@@ -65,12 +52,6 @@
 
 <main>
     <div class="slider-3__area slider-3__space p-relative" data-background="/assets/img/slider/slider-2.jpg">
-        <div class="slider-3__shape d-none d-xl-block">
-            <img src="/assets/img/slider/slider-sp-3.png" alt />
-        </div>
-        <div class="slider-3__shape-2 d-none d-xl-block">
-            <img src="/assets/img/slider/slider-sp-3.png" alt />
-        </div>
         <div class="container">
             <div class="row">
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10">
@@ -78,23 +59,21 @@
                         <div class="slider-3__section-title p-relative pb-10">
                             <h4 class="hero-3-section-subtitle pb-20 wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">
-                                We Best Take Dental !
+                                Tu salud dental en manos expertas.
                             </h4>
                             <h2 class="hero-title text-black wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                                We Provide Dental Best of Service.
+                                Clínica Ortodent
                             </h2>
                         </div>
                         <div class="slider-3__content-text pb-30 wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
                             <p>
-                                Today, Barry’s is on the cusp of continued global expansion
-                                <br />
-                                100,000 members working out w eekly in studios
+                                Hacemos que visitar al dentista sea una experiencia placentera.
                             </p>
                         </div>
                         <div class="slider-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
                             <a class="gradient-btn blue-bg" href="service-details.html">
-                                <span>OUR SERVICE</span>
+                                <span>Nuestros servicios</span>
                                 <i class="far fa-plus"></i>
                             </a>
                         </div>
@@ -107,7 +86,7 @@
     <div class="feature-2__area p-relative">
         <div class="feature-2__right-side d-none d-lg-block">
             <div class="feature-2__content">
-                <span>26,3500 Apply For Free Medical Dental</span>
+                <span>No pierdas más tiempo, ¡agenda tu cita ahora!</span>
             </div>
             <div class="feature-2__right-icon">
                 <a href="#"><i class="fas fa-arrow-right"></i></a>
@@ -122,21 +101,21 @@
                             <div class="feature-2__icon pb-15">
                                 <img src="/assets/img/feature/fea-icon-5.png" alt />
                             </div>
-                            <h4 class="feature-2__title-sm">Memori</h4>
+                            <h4 class="feature-2__title-sm">Limpieza</h4>
                         </div>
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".5s">
                             <div class="feature-2__icon pb-15">
                                 <img src="/assets/img/about/about-icon-1.png" alt />
                             </div>
-                            <h4 class="feature-2__title-sm">Surgery</h4>
+                            <h4 class="feature-2__title-sm">Coronas</h4>
                         </div>
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
                             <div class="feature-2__icon pb-15">
                                 <img src="/assets/img/service/sv-1-2.png" alt />
                             </div>
-                            <h4 class="feature-2__title-sm">Operation</h4>
+                            <h4 class="feature-2__title-sm">Atención a niños</h4>
                         </div>
                     </div>
                 </div>
@@ -145,9 +124,9 @@
     </div>
 
     <div class="about-3__area fix p-relative pt-100 pb-155">
-        <div class="about-3__shape d-none d-xl-block">
+        <!-- <div class="about-3__shape d-none d-xl-block">
             <img src="/assets/img/about/about-sp-2.png" alt />
-        </div>
+        </div> -->
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-6 col-lg-6">
@@ -156,7 +135,7 @@
                             <img src="/assets/img/about/about-3.png" alt />
                         </div>
                         <div class="about-3__img-text text-center d-none d-sm-block">
-                            <h5>36+ years experience</h5>
+                            <h5>6+ Años de experiencia</h5>
                         </div>
                         <div class="about-3__img-shape">
                             <img src="/assets/img/about/about-sp-1.png" alt />
@@ -167,17 +146,17 @@
                     <div class="about-3__right-item">
                         <div class="about-3__section-box">
                             <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                                Our About Now
+                                Sobre Nosotros
                             </h4>
                             <h3 class="section-title-2 pb-15 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                                Energize Society With And Energy Systems!
+                                Clínica Ortodent
                             </h3>
                             <p class="wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
-                                Our approach has been simple. Provide 100% competitive price
-                                sing <br />
-                                qualified plumbers with no hidden fees ked by a 100%
-                                uarantee on <br />
-                                workmanship Provide .
+                                En Ortodent, nuestra misión es hacer sonreír a la vida. Somos una clínica dental
+                                especializada en ortodoncia y cuidado dental, comprometida con la salud y la belleza de
+                                tu sonrisa. Nuestro equipo de profesionales altamente calificados se enorgullece de
+                                ofrecer un enfoque integral y personalizado para cada paciente, brindando soluciones
+                                efectivas y resultados sorprendentes
                             </p>
                         </div>
                         <div class="about-3__wrapper">
@@ -186,14 +165,13 @@
                                     <img src="/assets/img/about/about-icon-1.png" alt />
                                 </div>
                                 <div class="about-3__text">
-                                    <a href="about.html">
+                                    <a href="/#contact">
                                         <h4 class="about-3__title-sm">
-                                            I'm a Healthcare Provider
+                                            Tu sonrisa es nuestra prioridad
                                         </h4>
                                     </a>
                                     <p>
-                                        Dental Barry’s is on the cusp of continued global<br />
-                                        100,000 members working out w eekly.
+                                        La frescura de tu sonrisa comienza con una limpieza dental profesional.
                                     </p>
                                 </div>
                             </div>
@@ -202,20 +180,19 @@
                                     <img src="/assets/img/about/about-icon-2.png" alt />
                                 </div>
                                 <div class="about-3__text">
-                                    <a href="about.html">
+                                    <a href="/#contact">
                                         <h4 class="about-3__title-sm">
-                                            Medical Testing Solutions care
+                                            Endodoncias
                                         </h4>
                                     </a>
                                     <p>
-                                        Dental Barry’s is on the cusp of continued global<br />
-                                        100,000 members working out w eekly.
+                                        Cuidamos tus raíces para preservar tu sonrisa. <br> ¡Programa tu endodoncia hoy!
                                     </p>
                                 </div>
                             </div>
                             <div class="about-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1.2s">
                                 <a class="gradient-btn blue-bg" href="about.html">
-                                    <span>ABOUT MORE</span>
+                                    <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
                             </div>
@@ -238,10 +215,10 @@
                 <div class="col-xl-12">
                     <div class="service-3__section-box text-center pb-20">
                         <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Our Best Service
+                            Los servicios más solicitados
                         </h4>
                         <h3 class="section-title-2 pb-15 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            Energize Society With And
+                            Confía en nuestros expertos.
                         </h3>
                     </div>
                 </div>
@@ -251,16 +228,15 @@
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
                             <a href="service-details.html">
-                                <h4 class="service-3__title-sm">Hospital Laboratory</h4>
+                                <h4 class="service-3__title-sm">Limpieza dental</h4>
                             </a>
                             <div class="service-3__icon">
                                 <img src="/assets/img/service/sv-icon-1.png" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
-                                    Dental Barry’s is on the cusp of <br />
-                                    continued members working <br />
-                                    dental service.
+                                    En Clínica Ortodent <br>
+                                    nuestros servicios dentales hacen la diferencia.
                                 </p>
                             </div>
                         </div>
@@ -268,7 +244,7 @@
                             <img src="/assets/img/service/sv.png" alt />
                             <div class="service-3__btn">
                                 <a class="gradient-btn blue-bg" href="service-details.html">
-                                    <span>ABOUT MORE</span>
+                                    <span>Agendar cita</span>
                                 </a>
                             </div>
                         </div>
@@ -278,16 +254,15 @@
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
                             <a href="service-details.html">
-                                <h4 class="service-3__title-sm">Healthcare Provider</h4>
+                                <h4 class="service-3__title-sm">Atención a niños</h4>
                             </a>
                             <div class="service-3__icon">
                                 <img src="/assets/img/service/sv-1-2.png" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
-                                    Dental Barry’s is on the cusp of <br />
-                                    continued members working <br />
-                                    dental service.
+                                    Cuidamos de las sonrisas más jóvenes <br> con cariño y profesionalismo. <br>
+                                    Agenda ahora mismo.
                                 </p>
                             </div>
                         </div>
@@ -295,7 +270,7 @@
                             <img src="/assets/img/service/svg-2.jpg" alt />
                             <div class="service-3__btn">
                                 <a class="gradient-btn blue-bg" href="service-details.html">
-                                    <span>ABOUT MORE</span>
+                                    <span>Agendar cita</span>
                                 </a>
                             </div>
                         </div>
@@ -305,16 +280,16 @@
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
                             <a href="service-details.html">
-                                <h4 class="service-3__title-sm">Modern Equipment</h4>
+                                <h4 class="service-3__title-sm">Blanqueamientos</h4>
                             </a>
                             <div class="service-3__icon">
                                 <img src="/assets/img/service/sv-icon-1-3.png" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
-                                    Dental Barry’s is on the cusp of <br />
-                                    continued members working <br />
-                                    dental service.
+                                    Recupera la confianza en tu <br>sonrisa con nuestro tratamiento <br> de
+                                    blanqueamiento
+                                    dental.
                                 </p>
                             </div>
                         </div>
@@ -322,7 +297,7 @@
                             <img src="/assets/img/service/svg-3.jpg" alt />
                             <div class="service-3__btn">
                                 <a class="gradient-btn blue-bg" href="service-details.html">
-                                    <span>ABOUT MORE</span>
+                                    <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
                             </div>
@@ -341,26 +316,22 @@
                         <div class="solution__wrapper">
                             <div class="solution__left-item wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
                                 <h4 class="solution__title-sm">
-                                    Medical Testing Solutions care
+                                    Descubre Nuestra Gama de Tratamientos Dentales Personalizados.
                                 </h4>
                                 <p>
-                                    Dental Barry’s is on the cusp of continued global dental
-                                    <br />
-                                    100,000 members working out w eekly.
+                                    Desde obtener una sonrisa perfectamente alineada hasta
+                                    mejorar tu salud bucal en general, estamos aquí para ayudarte a lograrlo.
                                 </p>
                                 <div class="solution__content-list">
                                     <ul>
                                         <li>
-                                            <i class="far fa-check-square"></i>Medical ndisse
-                                            suscipit sagittis leo.
+                                            <i class="far fa-check-square"></i>Cirugias para terceros molares
                                         </li>
                                         <li>
-                                            <i class="far fa-check-square"></i>We gives medical
-                                            management.
+                                            <i class="far fa-check-square"></i>Extracciones
                                         </li>
                                         <li>
-                                            <i class="far fa-check-square"></i>Media in this area
-                                            of the solution.
+                                            <i class="far fa-check-square"></i>Coronas
                                         </li>
                                     </ul>
                                 </div>
@@ -401,10 +372,10 @@
                 <div class="col-xl-12">
                     <div class="project__section-title text-center pb-40">
                         <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Our Best Projects
+                            Nuestra galería
                         </h4>
                         <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            Energize Society With And
+                            Clínica Ortodent
                         </h2>
                     </div>
                 </div>
@@ -420,17 +391,7 @@
                                         <a class="popup-image" href="/assets/img/project/projects-5.jpg"><i
                                                 class="far fa-plus"></i></a>
                                     </div>
-                                    <div class="project__img-content">
-                                        <a href="product-details.html">
-                                            <h4 class="project__img-title-sm">
-                                                Keep You Informed
-                                            </h4>
-                                        </a>
-                                        <p>
-                                            Medical need to sure there thing <br />
-                                            embarrassing hidden
-                                        </p>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -442,17 +403,7 @@
                                         <a class="popup-image" href="/assets/img/project/projects-6.jpg"><i
                                                 class="far fa-plus"></i></a>
                                     </div>
-                                    <div class="project__img-content">
-                                        <a href="product-details.html">
-                                            <h4 class="project__img-title-sm">
-                                                Keep You Informed
-                                            </h4>
-                                        </a>
-                                        <p>
-                                            Medical need to sure there thing <br />
-                                            embarrassing hidden
-                                        </p>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -464,17 +415,7 @@
                                         <a class="popup-image" href="/assets/img/project/projects-7.jpg"><i
                                                 class="far fa-plus"></i></a>
                                     </div>
-                                    <div class="project__img-content">
-                                        <a href="product-details.html">
-                                            <h4 class="project__img-title-sm">
-                                                Keep You Informed
-                                            </h4>
-                                        </a>
-                                        <p>
-                                            Medical need to sure there thing <br />
-                                            embarrassing hidden
-                                        </p>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -486,17 +427,7 @@
                                         <a class="popup-image" href="/assets/img/project/projects-8.jpg"><i
                                                 class="far fa-plus"></i></a>
                                     </div>
-                                    <div class="project__img-content">
-                                        <a href="product-details.html">
-                                            <h4 class="project__img-title-sm">
-                                                Keep You Informed
-                                            </h4>
-                                        </a>
-                                        <p>
-                                            Medical need to sure there thing <br />
-                                            embarrassing hidden
-                                        </p>
-                                    </div>
+
                                 </div>
                             </div>
                         </div>
@@ -508,178 +439,7 @@
                                         <a class="popup-image" href="/assets/img/project/projects-2.jpg"><i
                                                 class="far fa-plus"></i></a>
                                     </div>
-                                    <div class="project__img-content">
-                                        <a href="product-details.html">
-                                            <h4 class="project__img-title-sm">
-                                                Keep You Informed
-                                            </h4>
-                                        </a>
-                                        <p>
-                                            Medical need to sure there thing <br />
-                                            embarrassing hidden
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="blue-slider-dots"></div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="brand-3__area">
-        <div class="brand-3__space">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xxxl-8 col-xxl-12 col-xl-12 col-lg-12 col-sm-12">
-                        <div class="brand-3__slider-wrapper-box">
-                            <div class="swiper-container brand-3__slider-active">
-                                <div class="swiper-wrapper">
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-1.png" alt />
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-2.png" alt />
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-3.png" alt />
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-4.png" alt />
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-1.png" alt />
-                                        </div>
-                                    </div>
-                                    <div class="swiper-slide">
-                                        <div class="brand-3__slider-item text-center text-md-start">
-                                            <img src="/assets/img/brand/brand-2.png" alt />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="team-2__area fix pt-100 pb-90">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="team-2__section-title text-center pb-40">
-                        <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Our Team Membar
-                        </h4>
-                        <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            Meet Our Team Member
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="team-2__slider-wrapper">
-                <div class="swiper-container team-2__slider-active">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="team-2__wrapper">
-                                <div class="team-2__item text-center">
-                                    <div class="team-2__item-img">
-                                        <img src="/assets/img/team/team-4.png" alt />
-                                    </div>
-                                    <div class="team-2__author-info">
-                                        <h4 class="team-2__author-name">Dr. Redam Naro</h4>
-                                        <span>Surgon</span>
-                                        <p>
-                                            Dental Barry’s is on the cusp of be <br />
-                                            continued members dental
-                                        </p>
-                                        <a href="doctor-details.html">View Profile +</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="team-2__wrapper">
-                                <div class="team-2__item text-center">
-                                    <div class="team-2__item-img">
-                                        <img src="/assets/img/team/team-4-2.png" alt />
-                                    </div>
-                                    <div class="team-2__author-info">
-                                        <h4 class="team-2__author-name">Dr. Robert Witcher</h4>
-                                        <span>Chief Doctor</span>
-                                        <p>
-                                            Dental Barry’s is on the cusp of be <br />
-                                            continued members dental
-                                        </p>
-                                        <a href="doctor-details.html">View Profile +</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="team-2__wrapper">
-                                <div class="team-2__item text-center">
-                                    <div class="team-2__item-img">
-                                        <img src="/assets/img/team/team-4-3.png" alt />
-                                    </div>
-                                    <div class="team-2__author-info">
-                                        <h4 class="team-2__author-name">Dr. Mike Yard</h4>
-                                        <span>Sernior Doctor</span>
-                                        <p>
-                                            Dental Barry’s is on the cusp of be <br />
-                                            continued members dental
-                                        </p>
-                                        <a href="doctor-details.html">View Profile +</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="team-2__wrapper">
-                                <div class="team-2__item text-center">
-                                    <div class="team-2__item-img">
-                                        <img src="/assets/img/team/team-4-4.png" alt />
-                                    </div>
-                                    <div class="team-2__author-info">
-                                        <h4 class="team-2__author-name">Dr. Ruth Tucker</h4>
-                                        <span>Physician</span>
-                                        <p>
-                                            Dental Barry’s is on the cusp of be <br />
-                                            continued members dental
-                                        </p>
-                                        <a href="doctor-details.html">View Profile +</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="team-2__wrapper">
-                                <div class="team-2__item text-center">
-                                    <div class="team-2__item-img">
-                                        <img src="/assets/img/team/team-4-3.png" alt />
-                                    </div>
-                                    <div class="team-2__author-info">
-                                        <h4 class="team-2__author-name">Dr. Redam Naro</h4>
-                                        <span>Surgon</span>
-                                        <p>
-                                            Dental Barry’s is on the cusp of be <br />
-                                            continued members dental
-                                        </p>
-                                        <a href="doctor-details.html">View Profile +</a>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -922,10 +682,10 @@
                 <div class="col-xl-12">
                     <div class="choose-2__section-title text-center pb-30">
                         <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Why Choose Us
+                            Nuestros servicios
                         </h4>
                         <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            We Provide Best Choose Us
+                            Diseñando sonrisas, cambiando vidas.
                         </h2>
                     </div>
                 </div>
@@ -939,12 +699,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Dental Implants</h4>
+                                    <h4 class="choose-2__title-sm">Incrustaciones</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -953,12 +713,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Dental Care</h4>
+                                    <h4 class="choose-2__title-sm">Consultas</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -967,12 +727,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">I'm a Healthcare</h4>
+                                    <h4 class="choose-2__title-sm">Radiografías digitales</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -981,12 +741,26 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Teeth Health</h4>
+                                    <h4 class="choose-2__title-sm">Resinas</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="service-details.html">
+                                    <h4 class="choose-2__title-sm">Endodoncias</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
                             </div>
                         </div>
                     </div>
@@ -1005,12 +779,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Crowns Healthcare</h4>
+                                    <h4 class="choose-2__title-sm">Extracciones</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -1019,12 +793,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Besty Healthcare</h4>
+                                    <h4 class="choose-2__title-sm">Muelas del juicio</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -1033,12 +807,12 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Teeth Service</h4>
+                                    <h4 class="choose-2__title-sm">Ortodoncia/Brackets</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="choose-2__item d-flex">
@@ -1047,12 +821,26 @@
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Bridges Health</h4>
+                                    <h4 class="choose-2__title-sm">Coronas</h4>
                                 </a>
-                                <p>
+                                <!-- <p>
                                     Dental Barry’s is on the cusp<br />
                                     100,000 members working
-                                </p>
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="service-details.html">
+                                    <h4 class="choose-2__title-sm">Implantes dentales</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
                             </div>
                         </div>
                     </div>
@@ -1078,21 +866,18 @@
                         <div class="contact-2__text">
                             <h4 class="section-title-2 text-white pb-5 wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay=".3s">
-                                Please Emergency For Dental Contact Now.
+                                No pospongas la salud dental.
                             </h4>
                             <p class="wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit rem
-                                autem voluptatem<br />
-                                phaedrum torquatos nec eu, vis detraxit periculis ex.
+                                Agenda tu cita con nosotros hoy. Nuestro equipo está listo para atenderte
                             </p>
                             <div class="wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
-                                <a href="tel:++882111542365">++882111542365</a>
-                                <a href="tel:+(9)6666666621">+(9)6666666621</a>
+                                <a href="tel:+526241573668">+52 624 157 3668</a>
                             </div>
                         </div>
                         <div class="contact-2__btn wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
-                            <a class="gradient-btn white-bg-2" href="contact.html">
-                                <span>CONTACT US</span>
+                            <a class="gradient-btn white-bg-2" href="tel:+526241573668">
+                                <span>Márcanos</span>
                                 <i class="far fa-plus"></i>
                             </a>
                         </div>
@@ -1102,139 +887,6 @@
         </div>
     </div>
 
-    <div class="blog-3__area pt-100 pb-70">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="blog-3__section-title text-center pb-30">
-                        <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Our Largest Blog
-                        </h4>
-                        <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            We are Medical Largest Blog
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="blog-3__item mb-30">
-                        <div class="blog-3__item-img p-relative">
-                            <a href="blog-details.html"><img class="w-100" src="/assets/img/blog/blog-13.jpg" alt /></a>
-                            <div class="blog-3__img-text">
-                                <span>DENTAL</span>
-                            </div>
-                        </div>
-                        <div class="blog-3__content-box-1">
-                            <div class="blog-3__category">
-                                <span>By: Admin</span>
-                                <span><i class="fal fa-calendar-alt"></i>Jan,6, 2022</span>
-                            </div>
-                            <div class="blog-3__content">
-                                <h4 class="blog-3__title-sm">
-                                    <a href="blog-details.html">Reference Lab Efficiently</a>
-                                </h4>
-                                <p>
-                                    We job gives you handcrafted hospital <br />
-                                    such as front admin Blog.
-                                </p>
-                                <div class="blog-3__link">
-                                    <a href="blog-details.html"><i class="fas fa-arrow-right"></i>Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="blog-3__item mb-30">
-                        <div class="blog-3__item-img p-relative">
-                            <a href="blog-details.html"><img class="w-100" src="/assets/img/blog/blog-14.jpg" alt /></a>
-                            <div class="blog-3__img-text">
-                                <span>DENTAL</span>
-                            </div>
-                        </div>
-                        <div class="blog-3__content-box-1">
-                            <div class="blog-3__category">
-                                <span>By: Admin</span>
-                                <span><i class="fal fa-calendar-alt"></i>Jan,6, 2022</span>
-                            </div>
-                            <div class="blog-3__content">
-                                <h4 class="blog-3__title-sm">
-                                    <a href="blog-details.html">Reference Lab Efficiently</a>
-                                </h4>
-                                <p>
-                                    We job gives you handcrafted hospital <br />
-                                    such as front admin Blog.
-                                </p>
-                                <div class="blog-3__link">
-                                    <a href="blog-details.html"><i class="fas fa-arrow-right"></i>Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-lg-4 col-md-6">
-                    <div class="blog-3__item mb-30">
-                        <div class="blog-3__item-img p-relative">
-                            <a href="blog-details.html"><img class="w-100" src="/assets/img/blog/blog-15.jpg" alt /></a>
-                            <div class="blog-3__img-text">
-                                <span>DENTAL</span>
-                            </div>
-                        </div>
-                        <div class="blog-3__content-box-1">
-                            <div class="blog-3__category">
-                                <span>By: Admin</span>
-                                <span><i class="fal fa-calendar-alt"></i>Jan,6, 2022</span>
-                            </div>
-                            <div class="blog-3__content">
-                                <h4 class="blog-3__title-sm">
-                                    <a href="blog-details.html">Reference Lab Efficiently</a>
-                                </h4>
-                                <p>
-                                    We job gives you handcrafted hospital <br />
-                                    such as front admin Blog.
-                                </p>
-                                <div class="blog-3__link">
-                                    <a href="blog-details.html"><i class="fas fa-arrow-right"></i>Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="cta-3__area cta-3__space z-index p-relative mb-100">
-        <div class="cta-3__shape d-none d-xl-block">
-            <span><i class="fal fa-briefcase-medical"></i></span>
-        </div>
-        <div class="cta-3__shape-1 d-none d-xxl-block">
-            <img src="/assets/img/cta/icon-3.png" alt />
-        </div>
-        <div class="container">
-            <div class="cta-3__bg">
-                <div class="row align-items-center">
-                    <div class="col-xl-6 col-lg-6 col-md-5 col-12">
-                        <div class="cta-3__title-sm">
-                            <h4 class="cta-3__title wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                                Subscribe To <br />
-                                Our Newsletter
-                            </h4>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-7 col-12">
-                        <div class="cta-3__subscribe-btn wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            <form action="#">
-                                <input type="email" placeholder="Your email address" />
-                                <button class="Subscribe-blue-btn">
-                                    <span>Subscribe</span>
-                                </button>
-                            </form>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 </main>

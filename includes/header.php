@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-6 col-md-6 col-6">
                     <div class="header__logo">
-                        <a href="index.html"><img src="/assets/img/logo/logo-blue.png" alt /></a>
+                        <a href="/"><img src="/assets/img/logo/logo.png" alt /></a>
                     </div>
                 </div>
                 <div class="col-xl-7 d-none d-xl-block">
