@@ -24,11 +24,8 @@
                     <div class="header__left-side d-flex align-items-center justify-content-end">
                         <div class="header__wrapper d-none d-lg-block">
                             <div class="header__content-box d-flex justify-content-end align-items-center">
-                                <div class="header__search-box-2 p-relative d-none d-xxl-block">
-                                    <span><i class="fas fa-search"></i></span>
-                                </div>
-                                <a class="gradient-btn blue-bg" href="contact.html">
-                                    <span>CONTACT US</span>
+                                <a class="gradient-btn blue-bg" href="/">
+                                    <span>CONTÁCTANOS</span>
                                     <i class="far fa-plus"></i>
                                 </a>
                             </div>
