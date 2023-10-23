@@ -12,10 +12,10 @@
                         <nav id="mobile-menu">
                             <ul>
                                 <li><a href="/">Inicio</a></li>
-                                <li><a href="/">Nosotros</a></li>
-                                <li><a href="/">Servicios</a></li>
-                                <li><a href="/">Galería</a></li>
-                                <li><a href="/">Contacto</a></li>
+                                <li><a href="/#about">Nosotros</a></li>
+                                <li><a href="/#services">Servicios</a></li>
+                                <li><a href="/#gallery">Galería</a></li>
+                                <li><a href="/#contact">Contacto</a></li>
                             </ul>
                         </nav>
                     </div>

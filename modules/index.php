@@ -38,12 +38,13 @@
                     <a href="tel:+526241573668">+52 624 157 3668</a>
                 </div>
             </div>
-           
+
         </div>
         <div class="itoffcanvas__social">
             <div class="social-icon">
                 <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i class="fab fa-facebook-square"></i></a>
+                <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i
+                        class="fab fa-facebook-square"></i></a>
             </div>
         </div>
     </div>
@@ -72,7 +73,7 @@
                             </p>
                         </div>
                         <div class="slider-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
-                            <a class="gradient-btn blue-bg" href="service-details.html">
+                            <a class="gradient-btn blue-bg" href="/#services">
                                 <span>Nuestros servicios</span>
                                 <i class="far fa-plus"></i>
                             </a>
@@ -86,10 +87,10 @@
     <div class="feature-2__area p-relative">
         <div class="feature-2__right-side d-none d-lg-block">
             <div class="feature-2__content">
-                <span>No pierdas más tiempo, ¡agenda tu cita ahora!</span>
+                <span>¡Agenda tu cita ahora!</span>
             </div>
             <div class="feature-2__right-icon">
-                <a href="#"><i class="fas fa-arrow-right"></i></a>
+                <a href="/#contact"><i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
         <div class="container">
@@ -123,7 +124,7 @@
         </div>
     </div>
 
-    <div class="about-3__area fix p-relative pt-100 pb-155">
+    <div class="about-3__area fix p-relative pt-100 pb-155" id="about">
         <!-- <div class="about-3__shape d-none d-xl-block">
             <img src="/assets/img/about/about-sp-2.png" alt />
         </div> -->
@@ -132,7 +133,7 @@
                 <div class="col-xl-6 col-lg-6">
                     <div class="about-3__left-item text-center text-lg-start p-relative">
                         <div class="about-3__main-img">
-                            <img src="/assets/img/about/about-3.png" alt />
+                            <img src="/assets/img/about/01.png" alt />
                         </div>
                         <div class="about-3__img-text text-center d-none d-sm-block">
                             <h5>6+ Años de experiencia</h5>
@@ -191,7 +192,7 @@
                                 </div>
                             </div>
                             <div class="about-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1.2s">
-                                <a class="gradient-btn blue-bg" href="about.html">
+                                <a class="gradient-btn blue-bg" href="/#contact">
                                     <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
@@ -227,7 +228,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="service-details.html">
+                            <a href="/#contact">
                                 <h4 class="service-3__title-sm">Limpieza dental</h4>
                             </a>
                             <div class="service-3__icon">
@@ -243,7 +244,7 @@
                         <div class="service-3__btn-img p-relative">
                             <img src="/assets/img/service/sv.png" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="service-details.html">
+                                <a class="gradient-btn blue-bg" href="/#contact">
                                     <span>Agendar cita</span>
                                 </a>
                             </div>
@@ -253,7 +254,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="service-details.html">
+                            <a href="/#contact">
                                 <h4 class="service-3__title-sm">Atención a niños</h4>
                             </a>
                             <div class="service-3__icon">
@@ -269,7 +270,7 @@
                         <div class="service-3__btn-img p-relative">
                             <img src="/assets/img/service/svg-2.jpg?=1" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="service-details.html">
+                                <a class="gradient-btn blue-bg" href="/#contact">
                                     <span>Agendar cita</span>
                                 </a>
                             </div>
@@ -279,7 +280,7 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="service-details.html">
+                            <a href="/#contact">
                                 <h4 class="service-3__title-sm">Blanqueamientos</h4>
                             </a>
                             <div class="service-3__icon">
@@ -296,7 +297,7 @@
                         <div class="service-3__btn-img p-relative">
                             <img src="/assets/img/service/svg-3.jpg" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="service-details.html">
+                                <a class="gradient-btn blue-bg" href="/#contact">
                                     <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
@@ -358,7 +359,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12">
                         <div class="solution__right-img">
-                            <img src="/assets/img/solution/solution-1.png" alt />
+                            <img src="/assets/img/solution/1.jpg" alt />
                         </div>
                     </div>
                 </div>
@@ -366,7 +367,7 @@
         </div>
     </div>
 
-    <div class="project__area">
+    <div class="project__area" id="gallery">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-xl-12">
@@ -385,11 +386,11 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/projects-5.jpg" alt />
+                                <img src="/assets/img/project/1.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/projects-5.jpg"><i
-                                                class="far fa-plus"></i></a>
+                                        <a class="popup-image" href="/assets/img/project/1.jpg"><i
+                                                class="far fa-eye"></i></a>
                                     </div>
 
                                 </div>
@@ -397,11 +398,11 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/projects-6.jpg" alt />
+                                <img src="/assets/img/project/2.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/projects-6.jpg"><i
-                                                class="far fa-plus"></i></a>
+                                        <a class="popup-image" href="/assets/img/project/2.jpg"><i
+                                                class="far fa-eye"></i></a>
                                     </div>
 
                                 </div>
@@ -409,11 +410,11 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/projects-7.jpg" alt />
+                                <img src="/assets/img/project/4.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/projects-7.jpg"><i
-                                                class="far fa-plus"></i></a>
+                                        <a class="popup-image" href="/assets/img/project/4.jpg"><i
+                                                class="far fa-eye"></i></a>
                                     </div>
 
                                 </div>
@@ -421,11 +422,11 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/projects-8.jpg" alt />
+                                <img src="/assets/img/project/3.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/projects-8.jpg"><i
-                                                class="far fa-plus"></i></a>
+                                        <a class="popup-image" href="/assets/img/project/3.jpg"><i
+                                                class="far fa-eye"></i></a>
                                     </div>
 
                                 </div>
@@ -433,11 +434,11 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/projects-2.jpg" alt />
+                                <img src="/assets/img/project/5.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/projects-2.jpg"><i
-                                                class="far fa-plus"></i></a>
+                                        <a class="popup-image" href="/assets/img/project/5.jpg"><i
+                                                class="far fa-eye"></i></a>
                                     </div>
 
                                 </div>
@@ -461,7 +462,7 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-buttons" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        <span>01</span>Medical Eye facilisis erat id odio
+                                        <span>01</span>Pregunta 1
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -479,7 +480,7 @@
                                 <h2 class="accordion-header">
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        <span>02</span>Medical Eye facilisis erat id odio
+                                        <span>02</span>Pregunta 2
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse"
@@ -498,7 +499,7 @@
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseThree" aria-expanded="false"
                                         aria-controls="collapseThree">
-                                        <span>03</span>Medical Eye facilisis erat id odio
+                                        <span>03</span>Pregunta 3
                                     </button>
                                 </h2>
                                 <div id="collapseThree" class="accordion-collapse collapse"
@@ -517,7 +518,7 @@
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefour" aria-expanded="false"
                                         aria-controls="collapsefour">
-                                        <span>04</span>Medical Eye facilisis erat id odio
+                                        <span>04</span>Pregunta 4
                                     </button>
                                 </h2>
                                 <div id="collapsefour" class="accordion-collapse collapse"
@@ -536,7 +537,7 @@
                                     <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefive" aria-expanded="false"
                                         aria-controls="collapsefive">
-                                        <span>05</span>Medical Eye facilisis erat id odio
+                                        <span>05</span>Pregunta 5
                                     </button>
                                 </h2>
                                 <div id="collapsefive" class="accordion-collapse collapse"
@@ -563,9 +564,7 @@
                         <div class="faq__text d-none d-xl-block">
                             <span>FAQ</span>
                         </div>
-                        <div class="faq__shape-1 d-none d-xl-block">
-                            <img src="/assets/img/faq/faq-sp-1.png" alt />
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -676,179 +675,6 @@
         </div>
     </div>
 
-    <div class="choose-2__area pb-30">
-        <div class="container">
-            <div class="row g-0">
-                <div class="col-xl-12">
-                    <div class="choose-2__section-title text-center pb-30">
-                        <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
-                            Nuestros servicios
-                        </h4>
-                        <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
-                            Diseñando sonrisas, cambiando vidas.
-                        </h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="choose-2__wrapper d-flex justify-content-between">
-                    <div class="choose-2__wrapper">
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/01.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Incrustaciones</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-3.png?=1" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Consultas</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/04.png?=1" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Radiografías digitales</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Resinas</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/05.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Endodoncias</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="choose-2__img-box text-center col-custom-width">
-                        <div class="choose-2__img-1 pb-25">
-                            <img src="/assets/img/choose/choose-1.png" alt />
-                        </div>
-                        <div class="choose-2__img-2">
-                            <img src="/assets/img/choose/choose-2.png" alt />
-                        </div>
-                    </div>
-                    <div class="choose-2__wrapper choose-2__ml">
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/02.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Extracciones</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-7.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Muelas del juicio</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-8.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Ortodoncia/Brackets</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-3.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Coronas</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                        <div class="choose-2__item d-flex">
-                            <div class="choose-2__icon">
-                                <img src="/assets/img/service/06.png" alt />
-                            </div>
-                            <div class="choose-2__text">
-                                <a href="service-details.html">
-                                    <h4 class="choose-2__title-sm">Implantes dentales</h4>
-                                </a>
-                                <!-- <p>
-                                    Dental Barry’s is on the cusp<br />
-                                    100,000 members working
-                                </p> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div class="contact-2__area mt-85 contact-2__bg p-relative">
         <div class="contact-2__icon">
             <img src="/assets/img/contact/icon-2.png" alt />
@@ -887,6 +713,298 @@
         </div>
     </div>
 
+
+<div id="services"></div>
+    <div class="choose-2__area pb-30" style="margin-top: 4rem;">
+        <div class="container">
+            <div class="row g-0">
+                <div class="col-xl-12">
+                    <div class="choose-2__section-title text-center pb-30">
+                        <h4 class="blue-section-subtitle wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".3s">
+                            Nuestros servicios
+                        </h4>
+                        <h2 class="section-title-2 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".5s">
+                            Diseñando sonrisas, cambiando vidas.
+                        </h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="choose-2__wrapper d-flex justify-content-between">
+                    <div class="choose-2__wrapper">
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/01.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Incrustaciones</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-3.png?=1" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Consultas</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/04.png?=1" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Radiografías digitales</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Resinas</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/05.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Endodoncias</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="choose-2__img-box text-center col-custom-width">
+                        <div class="choose-2__img-1 pb-25">
+                            <img src="/assets/img/choose/choose-1.png" alt />
+                        </div>
+                        <div class="choose-2__img-2">
+                            <img src="/assets/img/choose/choose-2.png" alt />
+                        </div>
+                    </div>
+                    <div class="choose-2__wrapper choose-2__ml">
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/02.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Extracciones</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-7.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Muelas del juicio</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-8.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Ortodoncia/Brackets</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/sv-icon-6-3.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Coronas</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                        <div class="choose-2__item d-flex">
+                            <div class="choose-2__icon">
+                                <img src="/assets/img/service/06.png" alt />
+                            </div>
+                            <div class="choose-2__text">
+                                <a href="/#contact">
+                                    <h4 class="choose-2__title-sm">Implantes dentales</h4>
+                                </a>
+                                <!-- <p>
+                                    Dental Barry’s is on the cusp<br />
+                                    100,000 members working
+                                </p> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="contact" class="contact-form__area  contact-form__bg contact-form__space"
+        data-background="assets/img/contact/contact-bg.jpg">
+        <div class="contact-form__shape">
+            <span><i class="fal fa-briefcase-medical"></i></span>
+        </div>
+        <div class="contact-form__shape-2">
+            <img src="assets/img/contact/ct-shape-2.png" alt />
+        </div>
+        <div class="container">
+            <div class="row">
+
+                <div class="col-xl-7 col-lg-6 col-md-6">
+                    <div class="contact-form__item z-index">
+                        <div class="contact-form__section-title pb-20">
+                            <h4 class="section-subtitle text-white wow tpfadeUp" data-wow-duration=".9s"
+                                data-wow-delay=".3s">
+                               ¡Contáctanos!
+                            </h4>
+                            <div class="contact-form-title-shape-wrap p-relative wow tpfadeUp" data-wow-duration=".9s"
+                                data-wow-delay=".5s">
+                                <h2 class="section-title text-white">
+                                  Clínica  OrtoDent
+                                </h2>
+                                <div class="contact-form-title-shape">
+                                    <img src="assets/img/slider/title-shape.png" alt />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="contact-form__content-box">
+                            <p class="wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".7s">
+                                Uno de nuestros representantes se pondrá en contacto contigo.
+                            </p>
+                            <div class="contact-form__content-list wow tpfadeUp" data-wow-duration=".9s"
+                                data-wow-delay=".9s">
+                                <ul>
+                                    <li>
+                                        <i class="far fa-check-square"></i>Agendar cita.
+                                    </li>
+                                    <li>
+                                        <i class="far fa-check-square"></i>Preguntar por nuestros servicios.
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="contact-form__appointment d-flex align-items-center wow tpfadeUp"
+                                data-wow-duration=".9s" data-wow-delay="1.1s">
+                                <!-- <div class="contact-form__appointment-icon">
+                                    <span><i class="fab fa-whatsapp"></i></span>
+                                </div> -->
+                                <!-- <div class="contact-form__appointment-text">
+                                    <h4>También puedes contactarnos por WhatsApp</h4>
+                                    <a href="https://wa.me/+526241573668?text=Hola,%20me%20gustaría%20más%20información." target="_blank">Mandar mensaje por whats</a>
+                                </div> -->
+                            </div>
+                            <a class="main-btn tp-btn-hover alt-color-orange wow tpfadeUp" data-wow-duration=".9s"
+                                data-wow-delay="1.3s" href="tel:+526241573668"><span>Marcar</span>
+                                <b></b>
+                                <i class="far fa-plus"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-lg-6 col-md-6">
+                    <div class="contact-form__wrapper-box contact-form__wrapper-bg text-center z-index"
+                        data-background="assets/img/contact/contact-bg-1.png">
+                        <div class="contact-form__form-text pb-40">
+                            <h4 class="contact-form__title-sm">Mandar correo</h4>
+                            <!-- <i>Available 24/7 Support health </i> -->
+                        </div>
+                        <form action="#">
+                            <!-- <div class="nice-select" tabindex="0">
+                                <span class="current">New Patient*</span>
+                                <ul class="list">
+                                    <li data-value="Property Type" class="option selected focus">
+                                        New Patient*
+                                    </li>
+                                    <li data-value="Home Insurance" class="option">
+                                        Old Patient
+                                    </li>
+                                </ul>
+                            </div> -->
+                            <input type="text" placeholder="Nombre*" />
+                            <input type="text" placeholder="Correo*" />
+                            <input type="text" placeholder="Teléfono*" />
+                            <input type="text" placeholder="Tipo de servicio*" />
+                            <!-- <div class="nice-select" tabindex="0">
+                                <span class="current">Gender*</span>
+                                <ul class="list">
+                                    <li data-value="Property Type" class="option selected focus">
+                                        Female
+                                    </li>
+                                    <li data-value="Home Insurance" class="option">Male</li>
+                                    <li data-value="Home Insurance" class="option">others</li>
+                                </ul>
+                            </div> -->
+                        </form>
+                        <div class="contact-form__btn pt-20">
+                            <button class="main-btn blue-bg">
+                                <span>Enviar</span><i class="far fa-plus"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+            <div class="col-md-12">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.0346683216476!2d-109.71265912426236!3d23.095826713589847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af5a578aaf6fef%3A0x2a7011a8f0c4bf0a!2sOrtoDent!5e0!3m2!1ses-419!2smx!4v1698102513882!5m2!1ses-419!2smx"
+                    width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
 
 
 </main>
