@@ -1,109 +1,21 @@
 <header>
-    <div class="notification__area black-bg">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-xl-3 col-lg-5 col-md-6 col-sm-5 d-none d-sm-block">
-                    <div class="notification__search-box p-relative">
-                        <form action="#">
-                            <input type="search" placeholder="Search" />
-                            <div class="notification__search-icon">
-                                <span><i class="fal fa-search"></i></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <div class="col-xl-6 d-none d-xl-block">
-                    <div class="notification__blue-text text-center">
-                        <span>News Hedline To Medical Doctor →</span>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-7 col-md-6 col-sm-7">
-                    <div class="notification__list-2 text-start text-sm-end">
-                        <ul>
-                            <li><a href="#">Help desk</a></li>
-                            <li><a href="#">Emergency</a></li>
-                            <li><a href="#">Contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
     <div id="header-sticky" class="header__area">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-6 col-md-6 col-6">
                     <div class="header__logo">
-                        <a href="index.html"><img src="assets/img/logo/logo-blue.png" alt /></a>
+                        <a href="index.html"><img src="/assets/img/logo/logo-blue.png" alt /></a>
                     </div>
                 </div>
                 <div class="col-xl-7 d-none d-xl-block">
                     <div class="header__main-menu main-menu-3 text-center">
                         <nav id="mobile-menu">
                             <ul>
-                                <li class="has-dropdown">
-                                    <a href="index.html">Home</a>
-                                    <ul class="submenu">
-                                        <li><a href="index.html">Main Home</a></li>
-                                        <li><a href="index-2.html">Eye Care</a></li>
-                                        <li><a href="index-3.html">Dental Care</a></li>
-                                        <li><a href="index-5.html">Plastic Surgery</a></li>
-                                        <li><a href="index-4.html">Online Pharmachy</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="#">Page</a>
-                                    <ul class="submenu">
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="product.html">Product</a></li>
-                                        <li>
-                                            <a href="product-sidebar.html">Product Sidebar</a>
-                                        </li>
-                                        <li>
-                                            <a href="product-details.html">Product Details</a>
-                                        </li>
-                                        <li><a href="project.html">Project</a></li>
-                                        <li>
-                                            <a href="project-details.html">Project Details</a>
-                                        </li>
-                                        <li><a href="testimonial.html">Testimonial</a></li>
-                                        <li><a href="faq.html">Faq</a></li>
-                                        <li><a href="cart.html">Cart</a></li>
-                                        <li><a href="checkout.html">Checkout</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
-                                        <li><a href="error.html">404</a></li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="service-details.html">Service</a>
-                                    <ul class="submenu">
-                                        <li><a href="service.html">Service 01</a></li>
-                                        <li><a href="service-2.html">Service 02</a></li>
-                                        <li><a href="service-3.html">Service 03</a></li>
-                                        <li>
-                                            <a href="service-details.html">Service Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="doctor-details.html">Doctors</a>
-                                    <ul class="submenu">
-                                        <li><a href="doctor.html">Doctor</a></li>
-                                        <li>
-                                            <a href="doctor-details.html">Doctor Details</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="has-dropdown">
-                                    <a href="blog-details.html">Blog</a>
-                                    <ul class="submenu">
-                                        <li><a href="blog.html">Blog</a></li>
-                                        <li><a href="blog-slidebar.html">Blog Sidebar</a></li>
-                                        <li><a href="blog-details.html">Blog Details</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="/">Inicio</a></li>
+                                <li><a href="/">Nosotros</a></li>
+                                <li><a href="/">Servicios</a></li>
+                                <li><a href="/">Galería</a></li>
+                                <li><a href="/">Contacto</a></li>
                             </ul>
                         </nav>
                     </div>

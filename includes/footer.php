@@ -1,5 +1,5 @@
 <footer>
-    <div class="footer-2__area footer-2__space footer-2__bg-2" data-background="assets/img/footer/ft-bg-2.png">
+    <div class="footer-2__area footer-2__space footer-2__bg-2" data-background="/assets/img/footer/ft-bg-2.png">
         <div class="container">
             <div class="row">
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
@@ -7,7 +7,7 @@
                         data-wow-delay=".3s">
                         <div class="footer__logo">
                             <a href="index.html">
-                                <img src="assets/img/logo/logo-blue-2.png" alt />
+                                <img src="/assets/img/logo/logo-blue-2.png" alt />
                             </a>
                         </div>
                         <div class="footer-2__social-box-3">
@@ -75,24 +75,24 @@
                         <h4 class="footer-2__title-sm">Our Gallery</h4>
                         <div class="footer-2__gallery gallery-pb d-flex">
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-1.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-1.jpg" alt />
                             </div>
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-2.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-2.jpg" alt />
                             </div>
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-3.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-3.jpg" alt />
                             </div>
                         </div>
                         <div class="footer-2__gallery d-flex">
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-4.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-4.jpg" alt />
                             </div>
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-5.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-5.jpg" alt />
                             </div>
                             <div class="footer-2__sm-img">
-                                <img src="assets/img/footer/ft-sm-6.jpg" alt />
+                                <img src="/assets/img/footer/ft-sm-6.jpg" alt />
                             </div>
                         </div>
                     </div>
