@@ -113,7 +113,7 @@
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
                             <div class="feature-2__icon pb-15">
-                                <img src="/assets/img/service/sv-1-2.png" alt />
+                                <img src="/assets/img/service/sv-1-2.png?=1" alt />
                             </div>
                             <h4 class="feature-2__title-sm">Atención a niños</h4>
                         </div>
@@ -205,10 +205,10 @@
 
     <div class="service-3__area p-relative fix z-index grey-bg-3 pt-100 pb-110">
         <div class="service-3__shape-1 d-none d-xl-block">
-            <img src="/assets/img/service/sv-sp-1.png" alt />
+            <img src="/assets/img/service/sv-sp-1.png?=1" alt />
         </div>
         <div class="service-3__shape-2">
-            <img src="/assets/img/service/sv-sp-2.png" alt />
+            <img src="/assets/img/service/sv-sp-2.png?=1" alt />
         </div>
         <div class="container">
             <div class="row">
@@ -231,7 +231,7 @@
                                 <h4 class="service-3__title-sm">Limpieza dental</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-icon-1.png" alt />
+                                <img src="/assets/img/service/sv-icon-1.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -257,7 +257,7 @@
                                 <h4 class="service-3__title-sm">Atención a niños</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-1-2.png" alt />
+                                <img src="/assets/img/service/sv-1-2.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -267,7 +267,7 @@
                             </div>
                         </div>
                         <div class="service-3__btn-img p-relative">
-                            <img src="/assets/img/service/svg-2.jpg" alt />
+                            <img src="/assets/img/service/svg-2.jpg?=1" alt />
                             <div class="service-3__btn">
                                 <a class="gradient-btn blue-bg" href="service-details.html">
                                     <span>Agendar cita</span>
@@ -283,7 +283,7 @@
                                 <h4 class="service-3__title-sm">Blanqueamientos</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-icon-1-3.png" alt />
+                                <img src="/assets/img/service/sv-icon-1-3.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -695,7 +695,7 @@
                     <div class="choose-2__wrapper">
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/choose/choose-icon-1.png" alt />
+                                <img src="/assets/img/service/01.png" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
@@ -709,7 +709,7 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-3.png" alt />
+                                <img src="/assets/img/service/sv-icon-6-3.png?=1" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
@@ -723,7 +723,7 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-4.png" alt />
+                                <img src="/assets/img/service/04.png?=1" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
@@ -751,7 +751,7 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                                <img src="/assets/img/service/05.png" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
@@ -775,7 +775,7 @@
                     <div class="choose-2__wrapper choose-2__ml">
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-4.png" alt />
+                                <img src="/assets/img/service/02.png" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
@@ -831,7 +831,7 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                                <img src="/assets/img/service/06.png" alt />
                             </div>
                             <div class="choose-2__text">
                                 <a href="service-details.html">
