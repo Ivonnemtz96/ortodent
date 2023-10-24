@@ -42,7 +42,7 @@
         </div>
         <div class="itoffcanvas__social">
             <div class="social-icon">
-                <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://instagram.com/clinica_dental.ortodent?igshid=MzRlODBiNWFlZA==" target="_blank"><i class="fab fa-instagram"></i></a>
                 <a href="https://www.facebook.com/OrtodentCabo" target="_blank"><i
                         class="fab fa-facebook-square"></i></a>
             </div>

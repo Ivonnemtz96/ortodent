@@ -228,19 +228,19 @@
 
 <div class="whats-float">
     <a href="https://wa.me/+526241573668?text=Hola,%20me%20gustaría%20agendar%20una%20cita." target="_blank">
-        <i class="fa-brands fa-whatsapp"></i><span>WhatsApp<br><small>6241221220</small></span>
+        <i class="fab fa-whatsapp"></i><span>WhatsApp<br><small>6241221220</small></span>
     </a>
 </div>
 
 <div class="insta-float">
     <a href="https://instagram.com/clinica_dental.ortodent?igshid=MzRlODBiNWFlZA==" target="_blank">
-        <i class="fa-brands fa-instagram"></i><span>Instagram<br><small>@clinica_dental.ortodent
+        <i class="fab fa-instagram"></i><span>Instagram<br><small>@clinica_dental.ortodent
 </small></span>
     </a>
 </div>
 
 <div class="fb-float">
     <a href="https://www.facebook.com/OrtodentCabo" target="_blank">
-        <i class="fa-brands fa-facebook"></i><span>Facebook<br><small>Clínica Ortodent</small></span>
+        <i class="fab fa-facebook"></i><span>Facebook<br><small>Clínica Ortodent</small></span>
     </a>
 </div>

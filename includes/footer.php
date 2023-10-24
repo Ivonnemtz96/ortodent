@@ -7,7 +7,7 @@
                         <div class="col-xl-12">
                             <div class="copyright-2__text text-center wow tpfadeUp" data-wow-duration=".9s"
                                 data-wow-delay="1s">
-                                <span>© 2023 All Right Reserved By Medinosi</span>
+                                <span>© 2023 Clínica OrtoDent. Desarrollado por <a href="https://www.bananagroup.mx/" target="_blank">Banana Group Marketing</a></span>
                             </div>
                         </div>
                     </div>

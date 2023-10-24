@@ -24,7 +24,7 @@
                     <div class="header__left-side d-flex align-items-center justify-content-end">
                         <div class="header__wrapper d-none d-lg-block">
                             <div class="header__content-box d-flex justify-content-end align-items-center">
-                                <a class="gradient-btn blue-bg" href="/">
+                                <a class="gradient-btn blue-bg" href="/#contact">
                                     <span>CONTÁCTANOS</span>
                                     <i class="far fa-plus"></i>
                                 </a>
