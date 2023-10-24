@@ -2,7 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Ortodent</title>
-    <meta name="description" content>
+    <meta name="description" content="En Clínica Ortodent, nuestra misión es hacer sonreír a nuestros. Somos una clínica dental especializada en ortodoncia y cuidado dental, comprometida con la salud y la belleza de tu sonrisa.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="shortcut icon" type="image/x-icon" href="/assets/img/favicon.png">
