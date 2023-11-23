@@ -1,14 +1,14 @@
 <div class="it-offcanvas-area">
     <div class="itoffcanvas">
         <div class="it-offcanva-bottom-shape d-none d-xxl-block">
-            <img src="/assets/img/offcanvas/offcanvas-shape-1.html" alt />
+            <img src="assets/img/offcanvas/offcanvas-shape-1.html" alt />
         </div>
         <div class="itoffcanvas__close-btn">
             <button class="close-btn"><i class="fal fa-times"></i></button>
         </div>
         <div class="itoffcanvas__logo">
             <a href="/">
-                <img src="/assets/img/logo/logo.png" alt />
+                <img src="assets/img/logo/logo.png" alt />
             </a>
         </div>
         <div class="itoffcanvas__text">
@@ -52,7 +52,7 @@
 <div class="body-overlay"></div>
 
 <main>
-    <div class="slider-3__area slider-3__space p-relative" data-background="/assets/img/slider/slider-2.jpg">
+    <div class="slider-3__area slider-3__space p-relative" data-background="assets/img/slider/slider-2.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-10">
@@ -73,7 +73,7 @@
                             </p>
                         </div>
                         <div class="slider-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
-                            <a class="gradient-btn blue-bg" href="/#services">
+                            <a class="gradient-btn blue-bg" href="#services">
                                 <span>Nuestros servicios</span>
                                 <i class="far fa-plus"></i>
                             </a>
@@ -90,7 +90,7 @@
                 <span>¡Agenda tu cita ahora!</span>
             </div>
             <div class="feature-2__right-icon">
-                <a href="/#contact"><i class="fas fa-arrow-right"></i></a>
+                <a href="#contact"><i class="fas fa-arrow-right"></i></a>
             </div>
         </div>
         <div class="container">
@@ -100,21 +100,21 @@
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".3s">
                             <div class="feature-2__icon pb-15">
-                                <img src="/assets/img/feature/fea-icon-5.png" alt />
+                                <img src="assets/img/feature/fea-icon-5.png" alt />
                             </div>
                             <h4 class="feature-2__title-sm">Limpieza</h4>
                         </div>
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".5s">
                             <div class="feature-2__icon pb-15">
-                                <img src="/assets/img/about/about-icon-1.png" alt />
+                                <img src="assets/img/about/about-icon-1.png" alt />
                             </div>
                             <h4 class="feature-2__title-sm">Coronas</h4>
                         </div>
                         <div class="feature-2__item text-center wow tpfadeUp" data-wow-duration=".9s"
                             data-wow-delay=".7s">
                             <div class="feature-2__icon pb-15">
-                                <img src="/assets/img/service/sv-1-2.png?=1" alt />
+                                <img src="assets/img/service/sv-1-2.png?=1" alt />
                             </div>
                             <h4 class="feature-2__title-sm">Atención a niños</h4>
                         </div>
@@ -126,20 +126,20 @@
 
     <div class="about-3__area fix p-relative pt-100 pb-155" id="about">
         <!-- <div class="about-3__shape d-none d-xl-block">
-            <img src="/assets/img/about/about-sp-2.png" alt />
+            <img src="assets/img/about/about-sp-2.png" alt />
         </div> -->
         <div class="container">
             <div class="row align-items-end">
                 <div class="col-xl-6 col-lg-6">
                     <div class="about-3__left-item text-center text-lg-start p-relative">
                         <div class="about-3__main-img">
-                            <img src="/assets/img/about/01.png" alt />
+                            <img src="assets/img/about/01.png" alt />
                         </div>
                         <div class="about-3__img-text text-center d-none d-sm-block">
                             <h5>6+ Años de experiencia</h5>
                         </div>
                         <div class="about-3__img-shape">
-                            <img src="/assets/img/about/about-sp-1.png" alt />
+                            <img src="assets/img/about/about-sp-1.png" alt />
                         </div>
                     </div>
                 </div>
@@ -163,10 +163,10 @@
                         <div class="about-3__wrapper">
                             <div class="about-3__item d-flex wow tpfadeUp" data-wow-duration=".9s" data-wow-delay=".9s">
                                 <div class="about-3__icon">
-                                    <img src="/assets/img/about/about-icon-1.png" alt />
+                                    <img src="assets/img/about/about-icon-1.png" alt />
                                 </div>
                                 <div class="about-3__text">
-                                    <a href="/#contact">
+                                    <a href="#contact">
                                         <h4 class="about-3__title-sm">
                                             Tu sonrisa es nuestra prioridad
                                         </h4>
@@ -178,10 +178,10 @@
                             </div>
                             <div class="about-3__item d-flex wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                                 <div class="about-3__icon">
-                                    <img src="/assets/img/about/about-icon-2.png" alt />
+                                    <img src="assets/img/about/about-icon-2.png" alt />
                                 </div>
                                 <div class="about-3__text">
-                                    <a href="/#contact">
+                                    <a href="#contact">
                                         <h4 class="about-3__title-sm">
                                             Endodoncias
                                         </h4>
@@ -192,7 +192,7 @@
                                 </div>
                             </div>
                             <div class="about-3__button wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1.2s">
-                                <a class="gradient-btn blue-bg" href="/#contact">
+                                <a class="gradient-btn blue-bg" href="#contact">
                                     <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
@@ -206,10 +206,10 @@
 
     <div class="service-3__area p-relative fix z-index grey-bg-3 pt-100 pb-110">
         <div class="service-3__shape-1 d-none d-xl-block">
-            <img src="/assets/img/service/sv-sp-1.png?=1" alt />
+            <img src="assets/img/service/sv-sp-1.png?=1" alt />
         </div>
         <div class="service-3__shape-2">
-            <img src="/assets/img/service/sv-sp-2.png?=1" alt />
+            <img src="assets/img/service/sv-sp-2.png?=1" alt />
         </div>
         <div class="container">
             <div class="row">
@@ -228,11 +228,11 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="/#contact">
+                            <a href="#contact">
                                 <h4 class="service-3__title-sm">Limpieza dental</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-icon-1.png?=1" alt />
+                                <img src="assets/img/service/sv-icon-1.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -242,9 +242,9 @@
                             </div>
                         </div>
                         <div class="service-3__btn-img p-relative">
-                            <img src="/assets/img/service/sv.png" alt />
+                            <img src="assets/img/service/sv.png" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="/#contact">
+                                <a class="gradient-btn blue-bg" href="#contact">
                                     <span>Agendar cita</span>
                                 </a>
                             </div>
@@ -254,11 +254,11 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="/#contact">
+                            <a href="#contact">
                                 <h4 class="service-3__title-sm">Atención a niños</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-1-2.png?=1" alt />
+                                <img src="assets/img/service/sv-1-2.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -268,9 +268,9 @@
                             </div>
                         </div>
                         <div class="service-3__btn-img p-relative">
-                            <img src="/assets/img/service/svg-2.jpg?=1" alt />
+                            <img src="assets/img/service/svg-2.jpg?=1" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="/#contact">
+                                <a class="gradient-btn blue-bg" href="#contact">
                                     <span>Agendar cita</span>
                                 </a>
                             </div>
@@ -280,11 +280,11 @@
                 <div class="col-xl-4 col-lg-4 col-md-6 mb-30 wow tpfadeUp" data-wow-duration=".9s" data-wow-delay="1s">
                     <div class="service-3__item text-center">
                         <div class="service-3__content">
-                            <a href="/#contact">
+                            <a href="#contact">
                                 <h4 class="service-3__title-sm">Blanqueamientos</h4>
                             </a>
                             <div class="service-3__icon">
-                                <img src="/assets/img/service/sv-icon-1-3.png?=1" alt />
+                                <img src="assets/img/service/sv-icon-1-3.png?=1" alt />
                             </div>
                             <div class="service-3__text">
                                 <p>
@@ -295,9 +295,9 @@
                             </div>
                         </div>
                         <div class="service-3__btn-img p-relative">
-                            <img src="/assets/img/service/svg-3.jpg" alt />
+                            <img src="assets/img/service/svg-3.jpg" alt />
                             <div class="service-3__btn">
-                                <a class="gradient-btn blue-bg" href="/#contact">
+                                <a class="gradient-btn blue-bg" href="#contact">
                                     <span>Agendar cita</span>
                                     <i class="far fa-plus"></i>
                                 </a>
@@ -340,7 +340,7 @@
                             <div class="solution__bottom-content d-flex align-items-center wow tpfadeUp"
                                 data-wow-duration=".9s" data-wow-delay=".5s">
                                 <div class="solution__bottom-icon">
-                                    <img src="/assets/img/solution/solution-2.png" alt />
+                                    <img src="assets/img/solution/solution-2.png" alt />
                                 </div>
                                 <div class="solution__bottom-list">
                                     <ul>
@@ -359,7 +359,7 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-12">
                         <div class="solution__right-img">
-                            <img src="/assets/img/solution/1.jpg" alt />
+                            <img src="assets/img/solution/1.jpg" alt />
                         </div>
                     </div>
                 </div>
@@ -386,10 +386,10 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/1.jpg" alt />
+                                <img src="assets/img/project/1.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/1.jpg"><i
+                                        <a class="popup-image" href="assets/img/project/1.jpg"><i
                                                 class="far fa-eye"></i></a>
                                     </div>
 
@@ -398,10 +398,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/2.jpg" alt />
+                                <img src="assets/img/project/2.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/2.jpg"><i
+                                        <a class="popup-image" href="assets/img/project/2.jpg"><i
                                                 class="far fa-eye"></i></a>
                                     </div>
 
@@ -410,10 +410,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/4.jpg" alt />
+                                <img src="assets/img/project/4.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/4.jpg"><i
+                                        <a class="popup-image" href="assets/img/project/4.jpg"><i
                                                 class="far fa-eye"></i></a>
                                     </div>
 
@@ -422,10 +422,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/3.jpg" alt />
+                                <img src="assets/img/project/3.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/3.jpg"><i
+                                        <a class="popup-image" href="assets/img/project/3.jpg"><i
                                                 class="far fa-eye"></i></a>
                                     </div>
 
@@ -434,10 +434,10 @@
                         </div>
                         <div class="swiper-slide">
                             <div class="project__item project__item-blue p-relative fix">
-                                <img src="/assets/img/project/5.jpg" alt />
+                                <img src="assets/img/project/5.jpg" alt />
                                 <div class="project__item-overly">
                                     <div class="project__icon">
-                                        <a class="popup-image" href="/assets/img/project/5.jpg"><i
+                                        <a class="popup-image" href="assets/img/project/5.jpg"><i
                                                 class="far fa-eye"></i></a>
                                     </div>
 
@@ -557,9 +557,9 @@
                 <div class="col-xl-6 col-lg-6 order-0 order-lg-1 wow tpfadeRight" data-wow-duration=".9s"
                     data-wow-delay=".8s">
                     <div class="faq__main-img p-relative text-center text-lg-end">
-                        <img src="/assets/img/faq/faq.png" alt />
+                        <img src="assets/img/faq/faq.png" alt />
                         <div class="faq__img-2">
-                            <img src="/assets/img/faq/faq-1.png" alt />
+                            <img src="assets/img/faq/faq-1.png" alt />
                         </div>
                         <div class="faq__text d-none d-xl-block">
                             <span>FAQ</span>
@@ -585,7 +585,7 @@
                     -ms-user-select: none;
                     user-select: none;
                   ">
-                            <img src="/assets/img/before-after/before.jpg" alt
+                            <img src="assets/img/before-after/before.jpg" alt
                                 data-bareservedstyle="position:static;top:auto;left:auto;width:1290px;height:570px;z-index:auto;float:none"
                                 style="position: relative; top: 0px; left: 0px; width: 100%" />
                         </div>
@@ -598,7 +598,7 @@
                     overflow: hidden !important;
                     user-select: none;
                   ">
-                            <img src="/assets/img/before-after/before-after-2.html" alt
+                            <img src="assets/img/before-after/before-after-2.html" alt
                                 data-bareservedstyle="position:static;top:auto;left:auto;width:1290px;height:570px;z-index:auto"
                                 style="
                       position: absolute;
@@ -667,8 +667,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="beforeAfter">
-                        <img src="/assets/img/before-after/before.jpg" alt />
-                        <img src="/assets/img/before-after/after.jpg" alt />
+                        <img src="assets/img/before-after/before.jpg" alt />
+                        <img src="assets/img/before-after/after.jpg" alt />
                     </div>
                 </div>
             </div>
@@ -677,13 +677,13 @@
 
     <div class="contact-2__area mt-85 contact-2__bg p-relative">
         <div class="contact-2__icon">
-            <img src="/assets/img/contact/icon-2.png" alt />
+            <img src="assets/img/contact/icon-2.png" alt />
         </div>
         <div class="contact-2__shape-1 d-none d-xl-block">
-            <img src="/assets/img/contact/ct-shape-1.png" alt />
+            <img src="assets/img/contact/ct-shape-1.png" alt />
         </div>
         <div class="contact-2__shape-2 d-none d-xl-block">
-            <img src="/assets/img/contact/ct-shape-1.png" alt />
+            <img src="assets/img/contact/ct-shape-1.png" alt />
         </div>
         <div class="container">
             <div class="row">
@@ -734,10 +734,10 @@
                     <div class="choose-2__wrapper">
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/01.png" alt />
+                                <img src="assets/img/service/01.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Incrustaciones</h4>
                                 </a>
                                 <!-- <p>
@@ -748,10 +748,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-3.png?=1" alt />
+                                <img src="assets/img/service/sv-icon-6-3.png?=1" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Consultas</h4>
                                 </a>
                                 <!-- <p>
@@ -762,10 +762,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/04.png?=1" alt />
+                                <img src="assets/img/service/04.png?=1" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Radiografías digitales</h4>
                                 </a>
                                 <!-- <p>
@@ -776,10 +776,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-5.png" alt />
+                                <img src="assets/img/service/sv-icon-6-5.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Resinas</h4>
                                 </a>
                                 <!-- <p>
@@ -790,10 +790,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/05.png" alt />
+                                <img src="assets/img/service/05.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Endodoncias</h4>
                                 </a>
                                 <!-- <p>
@@ -805,19 +805,19 @@
                     </div>
                     <div class="choose-2__img-box text-center col-custom-width">
                         <div class="choose-2__img-1 pb-25">
-                            <img src="/assets/img/choose/choose-1.png" alt />
+                            <img src="assets/img/choose/choose-1.png" alt />
                         </div>
                         <div class="choose-2__img-2">
-                            <img src="/assets/img/choose/choose-2.png" alt />
+                            <img src="assets/img/choose/choose-2.png" alt />
                         </div>
                     </div>
                     <div class="choose-2__wrapper choose-2__ml">
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/02.png" alt />
+                                <img src="assets/img/service/02.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Extracciones</h4>
                                 </a>
                                 <!-- <p>
@@ -828,10 +828,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-7.png" alt />
+                                <img src="assets/img/service/sv-icon-6-7.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Muelas del juicio</h4>
                                 </a>
                                 <!-- <p>
@@ -842,10 +842,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-8.png" alt />
+                                <img src="assets/img/service/sv-icon-6-8.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Ortodoncia/Brackets</h4>
                                 </a>
                                 <!-- <p>
@@ -856,10 +856,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/sv-icon-6-3.png" alt />
+                                <img src="assets/img/service/sv-icon-6-3.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Coronas</h4>
                                 </a>
                                 <!-- <p>
@@ -870,10 +870,10 @@
                         </div>
                         <div class="choose-2__item d-flex">
                             <div class="choose-2__icon">
-                                <img src="/assets/img/service/06.png" alt />
+                                <img src="assets/img/service/06.png" alt />
                             </div>
                             <div class="choose-2__text">
-                                <a href="/#contact">
+                                <a href="#contact">
                                     <h4 class="choose-2__title-sm">Implantes dentales</h4>
                                 </a>
                                 <!-- <p>

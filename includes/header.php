@@ -4,18 +4,18 @@
             <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-6 col-md-6 col-6">
                     <div class="header__logo">
-                        <a href="/"><img src="/assets/img/logo/logo.png" alt /></a>
+                        <a href="/"><img src="assets/img/logo/logo.png" alt /></a>
                     </div>
                 </div>
                 <div class="col-xl-7 d-none d-xl-block">
                     <div class="header__main-menu main-menu-3 text-center">
                         <nav id="mobile-menu">
                             <ul>
-                                <li><a href="/">Inicio</a></li>
-                                <li><a href="/#about">Nosotros</a></li>
-                                <li><a href="/#services">Servicios</a></li>
-                                <li><a href="/#gallery">Galería</a></li>
-                                <li><a href="/#contact">Contacto</a></li>
+                                <li><a href="#">Inicio</a></li>
+                                <li><a href="#about">Nosotros</a></li>
+                                <li><a href="#services">Servicios</a></li>
+                                <li><a href="#gallery">Galería</a></li>
+                                <li><a href="#contact">Contacto</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -24,7 +24,7 @@
                     <div class="header__left-side d-flex align-items-center justify-content-end">
                         <div class="header__wrapper d-none d-lg-block">
                             <div class="header__content-box d-flex justify-content-end align-items-center">
-                                <a class="gradient-btn blue-bg" href="/#contact">
+                                <a class="gradient-btn blue-bg" href="#contact">
                                     <span>CONTÁCTANOS</span>
                                     <i class="far fa-plus"></i>
                                 </a>
